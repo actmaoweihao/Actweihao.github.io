@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 I am currently an undergraduate student majoring in Mathematics and Applied Mathematics at the School of Science of Beijing University of Posts and Telecommunications (expected graduation year 2025).
