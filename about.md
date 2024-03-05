@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+I am currently an undergraduate student majoring in Mathematics and Applied Mathematics at the School of Science of Beijing University of Posts and Telecommunications (expected graduation year 2025).
+I am fortunate to be advised by Professor Yaodong Yang at the Institute for AI, Peking University.My current research interests mainly focus on scalable oversight and offline safe RL.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+   
